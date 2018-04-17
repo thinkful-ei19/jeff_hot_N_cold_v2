@@ -16,7 +16,7 @@ export default (state = initialState, action) => {
             correctAnswer: action.correctAnswer
         });
     }
- export const guessReducer = (state=initialState)
+ export const guessReducer = (state=inital)
     if (action.type === MAKE_GUESS) {
         let feedback, guess;
 
@@ -49,7 +49,7 @@ export default (state = initialState, action) => {
             guesses: [...state.guesses, guess]
         });
     }
-//
+
     if (action.type === GENERATE_AURAL_UPDATE) {
         const {guesses, feedback} = state;
 

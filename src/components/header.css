@@ -1,6 +1,14 @@
 h1 {
+<<<<<<< HEAD
   font-weight: 900;
   font-size: 3em;
   padding: 0.8em;
   color: #fff;
+=======
+	font-weight: 900;
+	font-size: 3em;
+	padding: 0.8em;
+	color: #fff;
+
+>>>>>>> 7b88fc9ea3dc3ed9816d23094e6a7e76e33240eb
 }

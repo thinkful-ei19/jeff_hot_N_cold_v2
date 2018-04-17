@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #guessCount {
   margin: .8rem auto;
 }
@@ -9,3 +10,10 @@
   font-weight: 700;
   font-size: 1.5em;
 }
+=======
+#count {
+	color: #f39c12;
+	font-weight: 700;
+	font-size: 1.5em;
+}
+>>>>>>> 7b88fc9ea3dc3ed9816d23094e6a7e76e33240eb

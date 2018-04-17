@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{Component} from 'react';
 
 import Feedback from './feedback';
 import GuessForm from './guess-form';
